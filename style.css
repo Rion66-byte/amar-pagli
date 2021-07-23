@@ -30,10 +30,19 @@
 #loveYou {
     font-family: cursive;
     text-align: center;
-    margin-top: 8rem;
+    margin-top: 2rem;
     font-weight: bold;
 }
 
 #gif {
     width: 250px;
+}
+
+#image{
+    text-align: center;
+}
+#image img{
+    width: 200px;
+    border-radius: 20px;
+    
 }
